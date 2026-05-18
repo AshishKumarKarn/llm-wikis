@@ -1,0 +1,11 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(mkdir -p /Users/ashishkarn/Downloads/codes/obsidian-projects/LLMWiki/raw/assets)",
+      "Bash(mkdir -p /Users/ashishkarn/Downloads/codes/obsidian-projects/LLMWiki/wiki/entities)",
+      "Bash(mkdir -p /Users/ashishkarn/Downloads/codes/obsidian-projects/LLMWiki/wiki/concepts)",
+      "Bash(mkdir -p /Users/ashishkarn/Downloads/codes/obsidian-projects/LLMWiki/wiki/sources)",
+      "Bash(mkdir -p /Users/ashishkarn/Downloads/codes/obsidian-projects/LLMWiki/wiki/synthesis)"
+    ]
+  }
+}

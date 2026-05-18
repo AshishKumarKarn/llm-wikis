@@ -1,0 +1,236 @@
+{
+  "main": {
+    "id": "6b527d4d7212fa47",
+    "type": "split",
+    "children": [
+      {
+        "id": "8862070826004fab",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ef8f64c7e07e79d4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "wiki/chapters/ch10-batch-processing.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "ch10-batch-processing"
+            }
+          },
+          {
+            "id": "f18768084bd43845",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "wiki/log.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "log"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1d1d15ebc412839f",
+    "type": "split",
+    "children": [
+      {
+        "id": "100b4c3c850f0dda",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "004bbeba77699d1d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "4f52011dcf7c6f4c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "1837fd28585bd363",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "6151e573eceb8eee",
+    "type": "split",
+    "children": [
+      {
+        "id": "efcb66d9fb344290",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "29cfca047970c450",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "25c4cd126f486b68",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "e845e71c2a5f28f4",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "aa95ca50a6803b96",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "73247f61803aada9",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "ef8f64c7e07e79d4",
+  "lastOpenFiles": [
+    "wiki/index.md",
+    "wiki/chapters/ch01-reliable-scalable-maintainable.md",
+    "wiki/systems/redis.md",
+    "wiki/systems/apache-kafka.md",
+    "wiki/comparisons/linearizability-vs-serializability.md",
+    "wiki/concepts/data-ethics.md",
+    "wiki/concepts/auditing-and-integrity.md",
+    "wiki/concepts/timeliness-vs-integrity.md",
+    "wiki/concepts/enforcing-constraints-in-dataflow.md",
+    "wiki/concepts/end-to-end-argument.md",
+    "wiki/concepts/dataflow-applications.md",
+    "wiki/comparisons/federated-vs-unbundled-databases.md",
+    "wiki/concepts/unbundling-databases.md",
+    "wiki/concepts/lambda-architecture.md",
+    "wiki/concepts/data-integration.md",
+    "wiki/chapters/ch12-the-future-of-data-systems.md",
+    "wiki/papers/the-log-kreps.md",
+    "wiki/systems/apache-samza.md",
+    "wiki/systems/apache-flink.md",
+    "wiki/concepts/stream-fault-tolerance.md",
+    "wiki/concepts/stream-joins.md",
+    "wiki/concepts/reasoning-about-time-in-streams.md",
+    "wiki/concepts/stream-processing-uses.md",
+    "wiki/concepts/state-streams-immutability.md",
+    "wiki/comparisons/cdc-vs-event-sourcing.md",
+    "wiki/concepts/event-sourcing.md",
+    "wiki/concepts/batch-joins.md.tmp.97809.0695059f818f",
+    "wiki/comparisons/batch-vs-stream-vs-online.md.tmp.97809.96164835932b",
+    "wiki/index.md.tmp.97809.33360d740805",
+    "wiki/papers/chubby-paper.md.tmp.97809.45d5ae2f032b",
+    "wiki/papers/paxos-raft-paper.md.tmp.97809.d3ab0e1e2932",
+    "wiki/concepts/coordination-services.md.tmp.97809.c6581b222f9f",
+    "wiki/concepts/causal-consistency.md.tmp.97809.23d48e0edb9b",
+    "wiki/chapters/ch09-consistency-and-consensus.md.tmp.97809.ad5d405f8000",
+    "wiki/index.md.tmp.97809.0b184d5b437b",
+    "wiki/index.md.tmp.97809.73be865d475f"
+  ]
+}
